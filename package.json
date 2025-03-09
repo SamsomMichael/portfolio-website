@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "build": "next build",
-  "export": "next export",
-  "deploy": "next build && next export && touch out/.nojekyll && gh-pages -d out -t true"
-},
+    "build": "next build",
+    "export": "next export",
+    "deploy": "next build && mkdir -p out && touch out/.nojekyll && gh-pages -d out -t"
+  },
   "dependencies": {
     "@emotion/is-prop-valid": "^1.2.1",
     "@emotion/react": "^11.11.0",
