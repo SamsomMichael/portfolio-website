@@ -52,11 +52,7 @@ export default function Hero() {
               Software Engineer, Full Stack
             </h2>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto lg:mx-0">
-              Experienced Software Developer with 5+ years of expertise in designing, developing, and implementing
-              scalable and high-performance software solutions. Proficient in Java, Spring, MySQL, and JavaScript, with
-              a strong foundation in C++. Skilled in full-stack development, system architecture, and optimizing
-              application performance. Adept at collaborating with cross-functional teams to deliver innovative and
-              efficient solutions.
+            A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native / Java and some other cool libraries and frameworks.
             </p>
             <div className="flex justify-center lg:justify-start space-x-4 mb-8">
               <a
